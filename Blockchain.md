@@ -21,3 +21,5 @@ A cryptographed and autoregulated collection of transaction data, validated and 
 ## The Blockchain Today:
 The blockchain today is a much larger concept, that ranges from Distributed Cloud Computing to, of course, Cryptovalues and NFTs.
 In this thread, I'll give you a 360° overview of what is the Blockchain.
+
+![This is an image](https://pbs.twimg.com/media/E_OV6G5WUAA9AhV?format=png&name=360x360)
