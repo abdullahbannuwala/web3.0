@@ -23,3 +23,18 @@ The blockchain today is a much larger concept, that ranges from Distributed Clou
 In this thread, I'll give you a 360° overview of what is the Blockchain.
 
 ![This is an image](https://pbs.twimg.com/media/E_OV6G5WUAA9AhV?format=png&name=360x360)
+
+## Why Is the Blockchain Important?
+Humans have this huge problem called: trustability.
+Everything in our society orbits around ways to ensure trust between two or more parts.
+Simply put: Blockchain solves the problem of trustability, decentralizing it.
+![This is an image](https://pbs.twimg.com/media/E_OV6RQWQAogquw?format=jpg&name=small)
+
+## How do we ensure trustability?
+
+We use the most disparate methods:
+1. Contracts.
+2. Reviews.
+3. Stars.
+4. Scores.
+All of those trustability proofs are then signed by centralized entities such as governments, companies, or organizations, to ensure validity.
